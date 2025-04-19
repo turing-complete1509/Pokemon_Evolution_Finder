@@ -2,7 +2,7 @@
 
 A simple and interactive web application that lets you explore the evolution chain of any Pokémon! Built with **HTML**, **CSS**, and **JavaScript**, this app leverages the [PokéAPI](https://pokeapi.co/) to fetch and display evolution data and stats for your favorite Pokémon.
 
-![Screenshot](https://raw.githubusercontent.com/turing-complete1509/Pokemon_Evolution_Finder/main/pokemon.png)
+![Screenshot](https://github.com/turing-complete1509/Pokemon_Evolution_Finder/blob/main/pokemon.png)
 
 
 ## 🌟 Features
@@ -27,3 +27,6 @@ A simple and interactive web application that lets you explore the evolution cha
 ├── index.html       # Main HTML file
 ├── style.css        # Styling for the app
 └── script.js        # Logic and API handling
+
+---
+Made with ❤️ by [Ayush]
