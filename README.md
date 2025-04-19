@@ -23,10 +23,16 @@ A simple and interactive web application that lets you explore the evolution cha
 - **JavaScript (Vanilla)** – API calls and DOM interactions
 - **PokéAPI** – Pokémon data provider
 
-## 📂 Project Structure
-├── index.html       # Main HTML file
-├── style.css        # Styling for the app
-└── script.js        # Logic and API handling
+## 📁 Project Structure
+
+```
+Pokémon Evolution Finder/
+├── index.html           # Main HTML file
+├── style.css            # Styling for the app
+├── script.js            # Logic and API Handling
+├── pokemon.png
+
+```
 
 ---
 Made with ❤️ by [Ayush]
